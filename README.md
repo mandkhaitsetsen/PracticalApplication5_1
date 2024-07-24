@@ -20,3 +20,8 @@ Drivers tend to use coupons that are expiring within 1 day at higher rate than t
 Drive type:
 
 Drivers who are commuting, whether to home or to work, accepts the coupon half of the time. However, when drivers are on leisure drives, then tend to accept coupons at 63% of the time. 
+
+
+Recommendations:
+ 
+Carry Outs and Takeaway coupons are the most popular coupons and it should be targeted towards drivers who are single or unmarried with partners. The drivers would be also in the early to mid 20’s and in a higher income bracket. The coupon expiration should be set at 1 day, and 2h coupon expirations should be eliminated. Coupons for Bars are least popular, and it should only be catered towards drivers who are inclined to go to bars. It should be noted that we cannot tell weather bar coupon encourages drivers to go to bars more often, or that people who already goes to bars frequently uses the coupon more often. 
